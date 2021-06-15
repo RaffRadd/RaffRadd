@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rafif, also known as Raff or RaffRadd!
+- 👋 Hi I’m Rafif, also known as Raff or RaffRadd!
 
 - 👀 I’m interested in learning IoT stuff
 
